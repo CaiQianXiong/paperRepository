@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "b4a99e4ffabbb210",
+    "type": "split",
+    "children": [
+      {
+        "id": "18052e849db9343a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "数据科学工具箱/Excel/王佩丰Excel基础教程/16.简单文本函数.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b625dbebcb047ef2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f5f9ec25e3b01ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79bbc6c64064dcdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5b6b11a05b7c949",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:数据科学工具箱/Excel/王佩丰Excel基础教程/ &",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 428
+  },
+  "right": {
+    "id": "685b89cfcc87c5e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eab862d661e8734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b04c3fa0aeb19e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据科学工具箱/Excel/王佩丰Excel基础教程/16.简单文本函数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4d0592bc346898e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bfa813b9689ba88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据科学工具箱/Excel/王佩丰Excel基础教程/16.简单文本函数.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317
+  },
+  "active": "18052e849db9343a",
+  "lastOpenFiles": [
+    "数据科学工具箱/Excel/王佩丰Excel基础教程/14.日期与时间.md",
+    "数据科学工具箱/Excel/王佩丰Excel基础教程/07.认识函数与公式.md",
+    "数据科学工具箱/Excel/王佩丰Excel基础教程/16.简单文本函数.md",
+    "数据科学工具箱/Excel/王佩丰Excel基础教程/02.单元格格式设置.md",
+    "数据科学工具箱/Excel/王佩丰Excel基础教程/04.排序与筛选.md",
+    "数据科学工具箱/Excel/王佩丰Excel基础教程/01.认识Excel.md",
+    "数据科学工具箱/Excel/王佩丰Excel基础教程/15.条件格式.md",
+    "数据科学工具箱/Excel/王佩丰Excel基础教程/12.MATCH+INDEX.md",
+    "数据科学工具箱/Excel/王佩丰Excel基础教程/11.VLOOKUP.md",
+    "数据科学工具箱/Excel/王佩丰Excel基础教程/09.COUNTIF.md"
+  ]
+}

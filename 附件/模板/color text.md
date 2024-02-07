@@ -1,0 +1,1 @@
+<font color="<% tp.file.cursor(1) %>"></font>

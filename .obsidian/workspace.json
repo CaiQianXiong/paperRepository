@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "b4a99e4ffabbb210",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea8fc3115c7b485b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a142c82104d6cd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "推荐+广告+搜索/assets/image-20211116203232-z95vzj0.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b625dbebcb047ef2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f5f9ec25e3b01ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79bbc6c64064dcdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5b6b11a05b7c949",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Reco/双塔模型",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c45f7f6b55a75ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 655.5
+  },
+  "right": {
+    "id": "685b89cfcc87c5e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eab862d661e8734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b04c3fa0aeb19e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "推荐+广告+搜索/assets/image-20211116203232-z95vzj0.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4d0592bc346898e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bfa813b9689ba88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "推荐+广告+搜索/assets/image-20211116203232-z95vzj0.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "16a142c82104d6cd",
+  "lastOpenFiles": [
+    "推荐+广告+搜索/assets/220226110437_clip_image014.jpg",
+    "推荐+广告+搜索/assets/220226101808_clip_image002.jpg",
+    "未命名.canvas",
+    "推荐+广告+搜索/读书笔记/Contrastive Self-supervised Sequential Recommendation with Robust Augmentation.excalidraw.md",
+    "推荐+广告+搜索/📔Index By 关键技术.md",
+    "推荐+广告+搜索/📓Index By 链路环节.md",
+    "推荐+广告+搜索/读书笔记/美团搜索粗排优化的探索与实践.excalidraw.md",
+    "推荐+广告+搜索/读书笔记/Warm Up Cold-start Advertisements-Improving CTR Predictions via Learning to Learn ID Embeddings.excalidraw.md",
+    "推荐+广告+搜索/其他.md",
+    "推荐+广告+搜索/计算广告.md",
+    "推荐+广告+搜索/assets/image-20220110150303-5uebr1r.png",
+    "推荐+广告+搜索/assets/image-20220106154631-q0icup5.png",
+    "推荐+广告+搜索/assets/image-20220106153606-9u3umla.png",
+    "推荐+广告+搜索/assets/image-20220120200851-c7h6h4t.png",
+    "推荐+广告+搜索/assets/image-20220120201328-d5x1x98.png",
+    "推荐+广告+搜索/assets/image-20220112170903-c531rv7.png",
+    "推荐+广告+搜索/assets/image-20220120151857-gwdunbi.png",
+    "推荐+广告+搜索/assets/image-20220120151935-j90zbf2.png",
+    "推荐+广告+搜索/assets/image-20211205143830-ctbtcje.png",
+    "推荐+广告+搜索/assets",
+    "推荐+广告+搜索/读书笔记/Que2Search-Fast and Accurate Query and Document Understanding for Search.md",
+    "推荐+广告+搜索/读书笔记/RecSys 2020 Tutorial-Introduction to Bandits in Recommender Systems.md",
+    "推荐+广告+搜索/读书笔记/Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems.md",
+    "推荐+广告+搜索/读书笔记/Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction.md",
+    "推荐+广告+搜索/读书笔记/Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction.md",
+    "推荐+广告+搜索/读书笔记/assets",
+    "推荐+广告+搜索/读书笔记/Graph Intention Network for Click-through Rate Prediction in Sponsored Search.md",
+    "推荐+广告+搜索/读书笔记/FTRL Formulations For Online Learning.md",
+    "推荐+广告+搜索/读书笔记/PEPNet_Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information.md",
+    "推荐+广告+搜索/读书笔记/Path-based Deep Network for Candidate Item Matching in Recommenders.md",
+    "推荐+广告+搜索/读书笔记/AutoFIS-Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction.md",
+    "推荐+广告+搜索/读书笔记/Mixture of Virtual-Kernel Experts for Multi-Objective User Profile Modeling.md",
+    "推荐+广告+搜索/读书笔记/APG-Adaptive Parameter Generation Network for Click-Through Rate Prediction.md",
+    "推荐+广告+搜索/读书笔记/Self-supervised Learning for Large-scale Item Recommendations.md",
+    "推荐+广告+搜索/读书笔记/U-BERT-Pre-training User Representations for Improved Recommendation.md",
+    "推荐+广告+搜索/读书笔记/Designing and Deploying Online Experiments with PlanOut.md",
+    "推荐+广告+搜索/读书笔记/Learning Tree-based Deep Model for Recommender Systems.md",
+    "推荐+广告+搜索/读书笔记/Modeling the Sequential Dependence among Audience Multi-step Conversions with Multi-task Learning in Targeted Display Advertising.md",
+    "推荐+广告+搜索/读书笔记/Enhancing Explicit and Implicit Feature Interactions via Information Sharing for Parallel Deep CTR Models.md",
+    "推荐+广告+搜索/读书笔记",
+    "推荐+广告+搜索",
+    "自媒体创作/互联网大厂推荐算法实战/章节/assets"
+  ]
+}

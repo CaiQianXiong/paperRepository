@@ -1,0 +1,1 @@
+<mark style="color:<% tp.file.cursor(1) %>;background-color: yellow;font-weight:bold"></mark>
